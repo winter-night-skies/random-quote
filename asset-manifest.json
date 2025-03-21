@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/random-quote/static/css/main.fb82d240.css",
+    "main.js": "/random-quote/static/js/main.0d6581e7.js",
+    "static/media/bird_karasu_kowai.png": "/random-quote/static/media/bird_karasu_kowai.6cf11d6022832924940a.png",
+    "index.html": "/random-quote/index.html",
+    "main.fb82d240.css.map": "/random-quote/static/css/main.fb82d240.css.map",
+    "main.0d6581e7.js.map": "/random-quote/static/js/main.0d6581e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb82d240.css",
+    "static/js/main.0d6581e7.js"
+  ]
+}
